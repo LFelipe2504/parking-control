@@ -3,6 +3,5 @@ Java 1.8, PostgreSQL
 
 
 • Projeto gerado no Spring Initializr com Maven
-• Uso do Spring Data para acesso ao Banco de dados, Spring MVC para padrão de projeto, Spring Validation para validação.
-• Teste de requisões via Postman e Git para versionamento 
+• Uso do Spring Data para acesso ao Banco de dados, Spring MVC para padrão de projeto, Spring Validation para validação. 
 
